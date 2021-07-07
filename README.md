@@ -11,7 +11,7 @@ The purpose of this challenge is to apply machine learning to solve a real-world
  
  ![NaiveRandomOversampling](./Resources/NaiveRandomOversampling.PNG)
  
-- *Balance accuracy score - 62%
+- *Balance accuracy score - 62%*
 - Precision scores - high-risk 0.01 - low-risk 1.00
 - Recall scores - high-risk 0.59 - low-risk 0.67
 - avg/total- 99% for precision & 69% for sensitivity*
