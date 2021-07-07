@@ -10,5 +10,5 @@ The purpose of this challenge is to apply machine learning to solve a real-world
  ### Naive Random Oversampling
  
  
-    ! [Naive_Random_ Oversampling.PNG](./Resources/Naive_Random_ Oversampling.PNG)
+  ! [Naive_Random_ Oversampling.PNG](./Resources/Naive_Random_ Oversampling.PNG)
 
