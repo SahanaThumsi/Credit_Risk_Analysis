@@ -9,10 +9,10 @@ The purpose of this challenge is to apply machine learning to solve a real-world
  ### Credit Risk Resampling Techniques
  ### Naive Random Oversampling
  
+ ![Naive_Random_ Oversampling](./Resources/Naive_Random_ Oversampling.PNG)
  
-  ![Naive_Random_Oversampling](./Resources/Naive_Random_Oversampling.PNG)
   
-  ## SMOTE_Oversampling
+ ### SMOTE_Oversampling
   
   ![SMOTE_Oversampling](./Resources/SMOTE_Oversampling.PNG)
 
