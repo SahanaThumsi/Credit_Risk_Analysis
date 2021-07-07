@@ -7,24 +7,24 @@ The purpose of this challenge is to apply machine learning to solve a real-world
  ## RESULTS
  
  ### Credit Risk Resampling Techniques
- ### Naive Random Oversampling
+ ### --Naive Random Oversampling
  
  ![NaiveRandomOversampling](./Resources/NaiveRandomOversampling.PNG)
  
   
- ### SMOTE_Oversampling
+ ### --SMOTE_Oversampling
   
   ![SMOTE_Oversampling](./Resources/SMOTE_Oversampling.PNG)
  
- ### Undersampling with Cluster Centroids algorithm
+ ### --Undersampling with Cluster Centroids algorithm
  ![ClusterCentroids_algorithm](./Resources/ClusterCentroids_algorithm.PNG)
  
  
  
- ### Combination (Over and Under) Sampling
- ![Combination_OverandUnder_Sampling](./Resources/Combination_OverandUnder_Sampling.PNG)
+ ### --Combination (Over and Under) Sampling
+ ![CombinationOverandUnderSampling](./Resources/CombinationOverandUnderSampling.PNG)
  
- ### Balanced_Random_Forest_Classifier
+ ### --Balanced_Random_Forest_Classifier
 
 ![Balanced_Random_Forest_Classifier](./Resources/Balanced_Random_Forest_Classifier.PNG)
 
