@@ -15,4 +15,17 @@ The purpose of this challenge is to apply machine learning to solve a real-world
  ### SMOTE_Oversampling
   
   ![SMOTE_Oversampling](./Resources/SMOTE_Oversampling.PNG)
+ 
+ ### Undersampling with Cluster Centroids algorithm
+ ![ClusterCentroids_algorithm](./Resources/ClusterCentroids_algorithm.PNG)
+ 
+ 
+ 
+ ### Combination (Over and Under) Sampling
+ ![Combination_OverandUnder_Sampling](./Resources/Combination_OverandUnder_Sampling.PNG)
+ 
+ ### Balanced_Random_Forest_Classifier
 
+![Balanced_Random_Forest_Classifier](./Resources/Balanced_Random_Forest_Classifier.PNG)
+
+![Balanced_Random_Forest Classifier_report](./Resources/Balanced_Random_Forest Classifier_report.PNG)
