@@ -29,3 +29,5 @@ The purpose of this challenge is to apply machine learning to solve a real-world
 ![Balanced_Random_Forest_Classifier](./Resources/Balanced_Random_Forest_Classifier.PNG)
 
 ![BalancedRFCR](./Resources/BalancedRFCR.PNG)
+
+![Easy_Ensemble_AdaBoost_Classifier](./Resources/Easy_Ensemble_AdaBoost_Classifier.PNG)
